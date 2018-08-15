@@ -1,12 +1,12 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="es.keensoft.fullscreenimage"
-    version="1.0.1">
+    id="c3w.fullscreenimage"
+    version="1.0.2">
 
     <name>Full Screen Image</name>
 
     <engines>
-        <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova" version=">=6.2.3" />
     </engines>
 
     <author>keensoft (http://keensoft.es/)</author>

@@ -1,5 +1,5 @@
 {
-  "name": "fullscreenimage-cordova-plugin",
+  "name": "c3w.fullscreenimage",
   "version": "1.0.2",
   "description": "Full Screen Image Plugin Cordova iOS/Android =================================",
   "main": "index.js",
