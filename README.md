@@ -6,11 +6,7 @@ Plugin to show images from cordova project and use it with native components.
 Installation:
 --------------
 
-`cordova plugin add https://github.com/keensoft/FullScreenImage-Cordova-Plugin.git`
-
-OR from http://plugins.cordova.io/ 
-
-`cordova plugin add es.keensoft.fullscreenimage`
+`cordova plugin add https://github.com/euphreme/FullScreenImage-Cordova-Plugin.git`
 
 Usage:
 --------------
@@ -40,7 +36,7 @@ Added Simple Photo Gallery using IonicFramework, loading array of Base64 images 
 Uninstall
 --------------
 
-`cordova plugin remove FullScreenImage`
+`cordova plugin remove c3w.fullscreenimage`
 
 Tested devices
 --------------
